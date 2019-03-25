@@ -25,4 +25,5 @@
 4. 回归问题转化成分类问题更容易些（赛后和前排大佬交流所得）。
 5. 图像相关问题多尺度确实有效。
 
-就这样吧。
+感谢同队队员[@vicchu](https://github.com/vicchu)、@J.Yuan、@C.Han、@Y.Dong的并肩作战
+感谢队长[@YonghaoXu](https://github.com/YonghaoXu)的大力指导与支持，以及那段每晚在操场散步交谈、剖析问题本质、探求网络玄妙的时光。
